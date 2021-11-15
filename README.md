@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://rideo-cycle.web.app/home#home).
+
+⚫ I have develop this website from my knowledge what ever i have learned from my programming hero course.
+⚫ This project made me realize that what ever the situation will appeard in coding just keep your mind cool and find the best solution
+⚫ I hope this project will give me a new chance to go further in web development
+⚫ With this website people can look for new product to buy but we have to intregate payment system as soon as possible
+⚫ In this website i have intregated adim system whare a admin can create new admin.
 
 ## Available Scripts
 

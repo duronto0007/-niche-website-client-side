@@ -8,7 +8,7 @@ const Order = () => {
     const [product, setProduct] = useState([])
 
     useEffect( () =>{
-        fetch(`http://localhost:5000/products/${productId}`)
+        fetch(`https://sleepy-citadel-11733.herokuapp.com/products/${productId}`)
         .then(res => res.json())
         .then(data =>setProduct(data));
     },[productId])
