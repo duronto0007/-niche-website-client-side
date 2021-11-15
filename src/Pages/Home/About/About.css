@@ -1,0 +1,30 @@
+.about-section{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    margin-top: 70px;
+}
+.about-img img{
+    margin-top: 20px;
+    width: 190%;
+    height: 90%;
+}
+.about-text{
+    padding: 30px;
+    margin-right: 20px;
+    
+}
+
+/* responsive part */
+
+
+@media only screen and (max-width: 688px) {
+    .about-section{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+    .about-section{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

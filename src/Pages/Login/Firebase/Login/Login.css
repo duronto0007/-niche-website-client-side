@@ -1,0 +1,27 @@
+.login-form{
+    margin-top: 20px;
+    height: auto;
+    width: 200px;
+    margin: auto;
+}
+.login-form input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.login-button{
+    width: 100px;
+    padding: none;
+    height: 40px;
+    background-color: rgb(104, 52, 52);
+    color: white;
+    margin-right: 80px;
+}
+.btn-color{
+    color: black;
+    background-color: burlywood;
+}
+.google-login{
+    width: 210px;
+}

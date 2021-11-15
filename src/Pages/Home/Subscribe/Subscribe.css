@@ -1,0 +1,22 @@
+.sub-bg{
+   background-color: rgb(160, 211, 190);
+   height: 300px;
+   padding: 50px;
+}
+
+.line{
+    width: 40%;
+    border: 2px;
+    padding: 2px;
+    background-color: rgb(151, 4, 4);
+}
+
+.subs{
+    width: 30%;
+    padding: 10px;
+    margin-right: 20px;
+}
+.subs-btn{
+    width: 150px;
+   background-color:orangered;
+}

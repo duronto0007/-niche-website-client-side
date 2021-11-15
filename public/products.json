@@ -1,0 +1,38 @@
+[
+    {   "id": 1,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    },
+    {    "id": 2,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    },
+    {    "id": 3,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    },
+    {    "id": 4,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    },
+    {    "id": 5,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    },
+    {    "id": 6,
+       "name":"Mount POW",
+       "price":600,
+       "description":"This is one the best Mount Bike it has been favourite in every young generation",
+       "img":"https://i.ibb.co/rGNttg5/b1.png"
+    }
+ ]
